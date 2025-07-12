@@ -1,2 +1,2 @@
-#version change 1.0
-print("Modified")
+#version change 2.0
+print("Modified kapy.py")
