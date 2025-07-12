@@ -1,2 +1,2 @@
-#Version 3
-print("Vinay Datta Rao")
+#Version 1
+print("Vinay")
